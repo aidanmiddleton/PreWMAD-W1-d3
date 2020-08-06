@@ -17,7 +17,7 @@ git pull
 
 
 
-###Setup
+### Setup
 
 step by step:
 
@@ -31,7 +31,7 @@ Student B: Clone developer A's Fork
 
 
 
-###Adding to the files
+### Adding to the files
 
 Student A: Add some text to fileA.txt
 
