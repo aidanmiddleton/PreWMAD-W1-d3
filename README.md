@@ -46,16 +46,5 @@ Student B: add, commit, push to github
 Student A: Pull the changes (git pull)
 
 
-Student A: make a change to fileC.txt
 
-Student B: make a change to fileC.txt
 
-Student A: add, commit, push changes to github. do this before student B.
-
-Student B: add, commit, push changes (this will fail)
-
-Student B: it will tell you there are changes you do not have. perform a git pull
-
-From this point, it will tell you that there is a merge conflict, as you have made changes ot the same  file. you will have to resolve these conflicts, and then do a final git push. 
-
-Student A: git pull
